@@ -1,0 +1,6 @@
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.BL\bin\Debug\Jock.NR.BL.dll
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.BL\bin\Debug\Jock.NR.BL.pdb
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.BL\obj\Debug\Jock.NR.BL.csprojResolveAssemblyReference.cache
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.BL\obj\Debug\Jock.NR.BL.csproj.CoreCompileInputs.cache
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.BL\obj\Debug\Jock.NR.BL.dll
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.BL\obj\Debug\Jock.NR.BL.pdb

@@ -1,0 +1,9 @@
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\bin\Debug\Jock.NR.Core.exe.config
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\bin\Debug\Jock.NR.Core.exe
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\bin\Debug\Jock.NR.Core.pdb
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\obj\Debug\Jock.NR.Core.csprojResolveAssemblyReference.cache
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\obj\Debug\Jock.NR.Core.csproj.CoreCompileInputs.cache
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\obj\Debug\Jock.NR.Core.exe
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\obj\Debug\Jock.NR.Core.pdb
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\bin\Debug\Jock.NR.BL.dll
+C:\Лабы\NumberRecognition\Jock.NR\Jock.NR.Core\bin\Debug\Jock.NR.BL.pdb
